@@ -1,2 +1,2 @@
-# palvelinohjelmointi
-# Demomateria
+# palvelinohjelmoinnin materiaalit
+
