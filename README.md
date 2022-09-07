@@ -1,2 +1,0 @@
-# palvelinohjelmoinnin materiaalit
-
